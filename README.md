@@ -1,4 +1,4 @@
-<h6 align="center">Hi 👋!<br>I am Kingshuman Rooj<br>          TECHNOPHILE<br>🌱 I’m currently learning: Web Development<br><br>📫 How to reach me: kingshumanrooj47@gmail.com<br><br>👯 I’m looking to collaborate on: HTML,C,PYTHON<br><br>💬 Ask me about: Web Development<br><br>⚡ Fun fact: Coming Soon<br><br>😄 Pronouns: Gentleman</h6>
+<h6 align="center">Hi 👋!<br>I am Kingshuman Rooj<br>          TECHNOPHILE<br>🌱 I’m currently learning: Web Development<br><br>📫 How to reach me: kingshumanrooj47@gmail.com<br><br>👯 I’m looking to collaborate on: HTML,C,<br><br>💬 Ask me about: Web Development<br><br>⚡ Fun fact: Coming Soon<br><br>😄 Pronouns: Gentleman</h6>
 
 ###
 
